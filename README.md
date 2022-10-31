@@ -8,3 +8,4 @@ You can copy the hex-code of the color (click to the according code).
 Codes of colors will be also shown as a link for the site with hash.
 You can copy link (with the string where all colors are shown as a string) and send link to somebody.
 Everybody who open this link will receive all colors which you sent him.
+/But all locks will be shown in position "unlocked"/
